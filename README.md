@@ -6,6 +6,8 @@ This back end of an ecommerce website can execute cach step of CRUD
 
 ## Table of Contents
 
+## Walkthrough Video
+
 ## Screenshots
 
 ![ScreenShot](freshBacon.PNG)
