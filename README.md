@@ -8,7 +8,7 @@ This back end of an ecommerce website can execute cach step of CRUD
 
 ## Screenshots
 
-[!ScreenShot](freshBacon.png)
+![ScreenShot](freshBacon.png)
 
 N/A
 
