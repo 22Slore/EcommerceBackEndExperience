@@ -7,6 +7,7 @@ This back end of an ecommerce website can execute cach step of CRUD
 ## Table of Contents
 
 ## Walkthrough Video
+  https://www.youtube.com/watch?v=FpQBzzE5B2E
 
 ## Screenshots
 
